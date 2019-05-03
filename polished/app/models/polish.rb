@@ -1,0 +1,2 @@
+class Polish < ApplicationRecord
+end
